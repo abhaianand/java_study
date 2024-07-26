@@ -18,6 +18,13 @@ public class Arrays_single_dimensional {
         System.out.println(a[2]);  //here 2 is the index number
         //if you want to read all the values in the array - need looping statement
 
+        for(int i=0;i<a.length;i++){
+
+            System.out.println(a[i]);  //if you dont know the actual legth of the array can use for loop with length keyword to findout the actual length
+                                        //and can print the value
+        }
+
+
 
 
 
