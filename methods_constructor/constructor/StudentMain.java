@@ -4,7 +4,8 @@ public class StudentMain {
 
     public static void main (String[] args){
 
+        Student stu = new Student(101,"ajith",5);
+            stu.Abc();
 
     }
-
 }
