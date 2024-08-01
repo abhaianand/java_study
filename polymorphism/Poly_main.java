@@ -1,4 +1,4 @@
-package java_study.polymorphism_encapsulation_overloading;
+package java_study.polymorphism;
 
 public class Poly_main {
     public static void main(String[] args){

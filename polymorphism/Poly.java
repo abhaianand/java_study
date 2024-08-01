@@ -1,4 +1,4 @@
-package java_study.polymorphism_encapsulation_overloading;
+package java_study.polymorphism;
 
 public class Poly {
     // method overloading
@@ -25,3 +25,4 @@ public class Poly {
         System.out.println(x+y+z); //5
     }
 }
+// return type not consider
