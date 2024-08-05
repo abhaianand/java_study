@@ -19,13 +19,10 @@ public class Static_Keywords {
         method1();
         metthod2();
     }
-
     //public static void main (string[] args)
     //public - access modifier - available in whole project because
     // static - common for across all class and method
     //void - nothing return
     // main -  method name
     // (string[] args) -  string is the type and args is the single dimension array
-
-
 }
