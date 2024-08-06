@@ -28,7 +28,6 @@ class Child3 extends Parent{
 
     }
 }
-public class Hir_class{
 public class Hierarchy_class {
     public static void main(String args[]){
         Child1 obj1 = new Child1();
