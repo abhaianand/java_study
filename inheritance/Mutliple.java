@@ -26,8 +26,10 @@ class parent2 {
 }
 
 class Child extends parent1,parent2{  // we can not extend multiple class by extend only one class we can extend
+     multiple inheritance can only achieve by Interface approach
 
     void method3(){
+       System.out.println("child");
     }
 
 }
