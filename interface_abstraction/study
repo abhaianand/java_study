@@ -1,0 +1,11 @@
+1) interface is a blue print of class
+2)interface contain only static and final variables by default it is
+3) interface contain abstract methods,default method and static method
+4)in abstraction we only have method name ,return type and parameter there will be no body
+5) in interface all methods by default it will be public
+6)clas to clas we use extends
+7) interface to interface we use extends
+8) inter face to class we use implements
+9) class to interface is not possible
+10) we can create object reference but we can't instantiate
+
