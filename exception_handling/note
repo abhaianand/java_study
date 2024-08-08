@@ -1,0 +1,9 @@
+error
+1 syntax error
+2 logical error
+
+
+
+exceptions
+1 checked exception  - file not found, io exceptions
+2 unchecked exceptions - arthemethical exception , nul pointer , array index outof boundsary excpetions
