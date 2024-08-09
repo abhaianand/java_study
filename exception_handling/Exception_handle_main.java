@@ -1,4 +1,5 @@
 package java_study.exception_handling;
+//if you know which exception will throw then we can go for this method
 
 public class Exception_handle_main {
     static int a =0;
@@ -21,3 +22,5 @@ public class Exception_handle_main {
     }
 }
 
+           }
+}
